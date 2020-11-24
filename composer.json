@@ -1,5 +1,5 @@
 {
-    "name": "philwinkle/appliedpatches",
+    "name": "hgati/philwinkle_appliedpatches",
     "license": "MIT",
     "type": "magento-module",
     "description": "See a list of all applied patches from within the Magento admin panel",
